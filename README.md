@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @callmewhatuwant
-- 👀 I’m interested in Ruby on Rails, Python, Motoko, Rust, Docker
-- 🌱 I’m currently learning Mysql and Python
+- 👀 I’m interested in Ruby on Rails, Terraform, Motoko, K8s, Ansible, Docker
+- 🌱 I’m currently learning Terraform and K8s
 - 💞️ I’m looking to collaborate on ICP
 - 📫 How to reach me cryptoisgood@outlook.de
 
